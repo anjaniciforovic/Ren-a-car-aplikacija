@@ -1,0 +1,12 @@
+C:\Users\uSER\source\repos\RentACar-IIprojekat\RentACar-IIprojekat\bin\x64\Debug\RentACarDB.accdb
+C:\Users\uSER\source\repos\RentACar-IIprojekat\RentACar-IIprojekat\bin\x64\Debug\RentACar-IIprojekat.exe.config
+C:\Users\uSER\source\repos\RentACar-IIprojekat\RentACar-IIprojekat\bin\x64\Debug\RentACar-IIprojekat.exe
+C:\Users\uSER\source\repos\RentACar-IIprojekat\RentACar-IIprojekat\bin\x64\Debug\RentACar-IIprojekat.pdb
+C:\Users\uSER\source\repos\RentACar-IIprojekat\RentACar-IIprojekat\obj\x64\Debug\RentACar-IIprojekat.csproj.AssemblyReference.cache
+C:\Users\uSER\source\repos\RentACar-IIprojekat\RentACar-IIprojekat\obj\x64\Debug\RentACar_IIprojekat.Properties.Resources.resources
+C:\Users\uSER\source\repos\RentACar-IIprojekat\RentACar-IIprojekat\obj\x64\Debug\RentACar-IIprojekat.csproj.GenerateResource.cache
+C:\Users\uSER\source\repos\RentACar-IIprojekat\RentACar-IIprojekat\obj\x64\Debug\RentACar-IIprojekat.csproj.CoreCompileInputs.cache
+C:\Users\uSER\source\repos\RentACar-IIprojekat\RentACar-IIprojekat\obj\x64\Debug\RentACar-IIprojekat.exe
+C:\Users\uSER\source\repos\RentACar-IIprojekat\RentACar-IIprojekat\obj\x64\Debug\RentACar-IIprojekat.pdb
+C:\Users\uSER\source\repos\RentACar-IIprojekat\RentACar-IIprojekat\obj\x64\Debug\RentACar_IIprojekat.DodajKlijentaForma.resources
+C:\Users\uSER\source\repos\RentACar-IIprojekat\RentACar-IIprojekat\obj\x64\Debug\RentACar_IIprojekat.Pocetna.resources
